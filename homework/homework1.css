@@ -1,0 +1,43 @@
+body {
+    height: 500px;
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: dimgrey;
+    
+
+}
+
+#image {
+    background-color: salmon;
+    background-clip: border-box;
+    border-radius: 4px 4px 0 0;
+    
+    
+}
+
+img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 50px 100px 50px 100px;
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 1px solid salmon;
+    padding-bottom: 15px;
+    width: 70%;
+    margin: 10px auto;
+}
+
+#description {
+    text-align: left;
+    height: 200px;
+    width: 260px;
+    overflow: scroll;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    overflow-y: scroll;
+}
